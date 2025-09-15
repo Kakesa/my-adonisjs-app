@@ -8,7 +8,7 @@
 - Tests unitaires et d'intégration
 
 # Installation
-1. Cloner le dépôt : `git clone <url-du-depot>`
+1. Cloner le dépôt : `git clone https://github.com/Kakesa/my-adonisjs-app.git`
 2. Installer les dépendances : `npm install`
 3. Configurer l'environnement : Copier le fichier `.env.example` en `.env` et ajuster les paramètres si nécessaire.
 4. Lancer l'application : `npm run dev`
